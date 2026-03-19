@@ -16,3 +16,4 @@ cv.imshow('Canny Edge Image (Resized)', edges_resized)
 
 cv.waitKey(0)
 cv.destroyAllWindows()
+
